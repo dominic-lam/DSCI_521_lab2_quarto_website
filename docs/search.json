@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hello! I’m Dominic Lam, a passionate engineer with a diverse background in mobile app development and algorithmic trading. I graduated from HKUST with a bachelor’s degree in mathematics and have been developing mobile apps for over two years. During my time as an algo-trader for five years, I applied machine learning techniques to enhance trading strategies. Recently, I’ve been focusing on building new mobile apps and exploring innovative solutions in tech. In the coming fall, I’ll be starting my journey as a graduate student in the Master of Data Science (MDS) program at UBC, where I’m excited to further deepen my expertise in data science and analytics."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "lab2_quarto_website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
